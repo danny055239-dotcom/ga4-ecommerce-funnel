@@ -37,6 +37,9 @@ Google Merchandise Store 是 Google 的官方周邊電商。資料期間涵蓋�
 | `sql/06_new_vs_returning.sql` | 新訪客、回訪者、常客的轉換差異 |
 
 儀表板：Looker Studio，共三頁（總覽、漏斗與流量、品類／檔期／顧客）。互動版見上方連結，截圖見 `images/`。
+![總覽](images/page1_overview.png)
+![漏斗與流量](images/page2_funnel.png)
+![品類、檔期與顧客](images/page3_category_trend.png)
 
 ## 4. 主要發現
 
