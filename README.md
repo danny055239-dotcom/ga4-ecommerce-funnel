@@ -28,15 +28,15 @@ Google Merchandise Store 是 Google 的官方周邊電商。資料期間涵蓋�
 
 | 檔案 | 分析內容 |
 |---|---|
-| `sql/00_explore_events.sql` | 資料探索：各事件數量與使用者數 |
-| `sql/01_monthly_kpi.sql` | 每月 KPI：使用者、工作階段、訂單、營收、轉換率、客單價 |
-| `sql/02_funnel_overall.sql` | 整體購物漏斗與每一步的轉換率 |
-| `sql/03_funnel_by_device_and_channel.sql` | 依裝置、首次來源比較轉換率與購物車放棄率 |
-| `sql/04_category_performance.sql` | 品類表現：瀏覽 → 加購 → 售出 |
-| `sql/05_daily_trend.sql` | 每日趨勢與檔期表現 |
-| `sql/06_new_vs_returning.sql` | 新訪客、回訪者、常客的轉換差異 |
+| `00_explore_events.sql` | 資料探索：各事件數量與使用者數 |
+| `01_monthly_kpi.sql` | 每月 KPI：使用者、工作階段、訂單、營收、轉換率、客單價 |
+| `02_funnel_overall.sql` | 整體購物漏斗與每一步的轉換率 |
+| `03_funnel_by_device_and_channel.sql` | 依裝置、首次來源比較轉換率與購物車放棄率 |
+| `04_category_performance.sql` | 品類表現：瀏覽 → 加購 → 售出 |
+| `05_daily_trend.sql` | 每日趨勢與檔期表現 |
+| `06_new_vs_returning.sql` | 新訪客、回訪者、常客的轉換差異 |
 
-儀表板：Looker Studio，共三頁（總覽、漏斗與流量、品類／檔期／顧客）。互動版見上方連結，截圖見 `images/`。
+儀表板：Looker Studio，共三頁（總覽、漏斗與流量、品類／檔期／顧客）。互動版見上方連結，截圖見 `Image/`。
 ![總覽](Image/page1_overview.png)
 ![漏斗與流量](Image/page2_funnel.png)
 ![品類、檔期與顧客](Image/page3_category_trend.png)
